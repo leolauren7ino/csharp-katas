@@ -10,4 +10,5 @@ public record CategorySummary(
     int SalesCount,
     int TotalQuantity,
     decimal TotalRevenue,
-    string TopProduct);
+    string TopProduct
+    );
