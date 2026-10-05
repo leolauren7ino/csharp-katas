@@ -1,4 +1,3 @@
-
 namespace Katas.Kata01_SalesSummary;
 
 public static class SalesReport
